@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class HomebrewGoAsk < Formula
+class GoAsk < Formula
     desc "Go Ask, a go command with pipeline config"
     homepage "https://github.com/AielloChan/go-ask"
     url "https://github.com/AielloChan/homebrew-go-ask/releases/download/mvp/go-ask_1.1.0.tar.gz"
