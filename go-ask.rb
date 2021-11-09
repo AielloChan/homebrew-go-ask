@@ -4,7 +4,7 @@
 class GoAsk < Formula
     desc "Go Ask, a go command with pipeline config"
     homepage "https://github.com/AielloChan/go-ask"
-    url "https://github.com/AielloChan/homebrew-go-ask/releases/download/mvp/go-ask_1.1.0.tar.gz"
+    url "https://github.com/AielloChan/go-ask/releases/download/latest/go-ask_1.1.0.tar.gz"
     sha256 "ccceab86de802328a56e07303ef343d1632af84c35d125932d0dac2195f58b85"
     license "MIT"
   
